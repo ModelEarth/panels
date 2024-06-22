@@ -1,2 +1,15 @@
-# panel
-Plug and Play Panel development with sp-dev-fx-webparts
+# Plug and Play Panel
+
+Plug and Play Panel implementation with sp-dev-fx-webparts.
+
+
+[Install .NET on macOS](https://learn.microsoft.com/en-us/dotnet/core/install/macos#install-with-bash-automation)
+
+
+Docker > [.NET](https://hub.docker.com/_/microsoft-dotnet/) > [ASP.NET Core Runtime](https://hub.docker.com/_/microsoft-dotnet-aspnet/)
+
+
+
+[Link within welcome email](https://developer.microsoft.com/en-us/microsoft-365/profile) leads to rejection: "Thank you for joining. You don't current qualify for a Microsoft 365 Developer Program sandbox subscription."
+
+Will try again Monday.
