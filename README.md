@@ -2,7 +2,7 @@
 
 Plug and Play (PnP) panels using [sp-dev-fx-webparts](https://pnp.github.io/sp-dev-fx-webparts).
 
-Install ASP.NET 
+Install ASP.NET  
 [on macOS](https://learn.microsoft.com/en-us/dotnet/core/install/macos#install-with-bash-automation)
 
 
