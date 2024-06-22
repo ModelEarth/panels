@@ -10,6 +10,7 @@ Docker > [.NET](https://hub.docker.com/_/microsoft-dotnet/) > [ASP.NET Core Runt
 
 
 
-[Link within welcome email](https://developer.microsoft.com/en-us/microsoft-365/profile) leads to rejection: "Thank you for joining. You don't current qualify for a Microsoft 365 Developer Program sandbox subscription."
+[Link within welcome email](https://developer.microsoft.com/en-us/microsoft-365/profile) leads to rejection:  
+"Thank you for joining. You don't current qualify for a Microsoft 365 Developer Program sandbox subscription."
 
 Will try again Monday.
