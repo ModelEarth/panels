@@ -18,5 +18,7 @@ Tried again Monday, still the same.
 
 The "free development tenant" is mentioned on the PNP pages
 
-[Birthday Accordian](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-birthdays-per-month)
-The above would be worth trying because it could help determin settings for pulling images for more than "me" (the current user).
+[Birthday Accordion](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-birthdays-per-month)
+The above might be worth trying because it could help determin settings for pulling images for more than "me" (the current user).
+
+Also comparing with [Sprocket 365](https://sprocket365.com/docs/category/web-parts) which is $2.50/user/mo
