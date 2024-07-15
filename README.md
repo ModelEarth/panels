@@ -18,6 +18,8 @@ Docker > [.NET](https://hub.docker.com/_/microsoft-dotnet/) > [ASP.NET Core Runt
 
 Tried again a few days later, still the same.
 
+Ben says we might need to have an Enterprise/Professional version of Visual Studio to do so. Is there a free version that would give us 90 days in the sandbox?
+
 ## WebParts Examples
 
 [Birthday Accordion](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-birthdays-per-month)
