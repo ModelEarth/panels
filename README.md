@@ -15,7 +15,7 @@ Install ASP.NET [on macOS](https://learn.microsoft.com/en-us/dotnet/core/install
 
 Docker > [.NET](https://hub.docker.com/_/microsoft-dotnet/) > [ASP.NET Core Runtime](https://hub.docker.com/_/microsoft-dotnet-aspnet/)
 
-[Link within welcome email](https://developer.microsoft.com/en-us/microsoft-365/profile) leads to rejection:  
+[Link within welcome email](https://developer.microsoft.com/en-us/microsoft-365/profile) leads to rejection if you don't join the 365 Developer Program first:  
 "Thank you for joining. You don't current qualify for a Microsoft 365 Developer Program sandbox subscription."
 
 ## WebParts Examples
