@@ -1,6 +1,7 @@
-# Plug and Play Panels
+# Microsoft BI Integration
 
 1. [Join the Microsoft 365 Developer Program](https://learn.microsoft.com/en-us/office/developer-program/microsoft-365-developer-program) 
+
 ## Sign Up for Microsoft Fabric and Power BI
 
 To sign up for a free Microsoft Fabric account and Power BI, follow the steps below:
@@ -18,6 +19,17 @@ The "free development tenant" is mentioned on the PNP pages:
 [MS 365 & Power Platform Community](https://pnp.github.io/)  
 
 ## Plug and Play (PnP) panels
+
+This does not seem to provide Sandbox access:
+
+1. [Join the Microsoft 365 Developer Program](https://learn.microsoft.com/en-us/office/developer-program/microsoft-365-developer-program) - Free for 90 days
+
+2. Register for [MS Sandbox](https://learn.microsoft.com/en-us/office/developer-program/microsoft-365-developer-program-get-started)
+
+The "free development tenant" is mentioned on the PNP pages:  
+[MS 365 & Power Platform Community](https://pnp.github.io/)  
+
+
 [Overviews](https://pnp.github.io/sp-dev-fx-webparts) of [sp-dev-fx-webparts samples](https://github.com/pnp/sp-dev-fx-webparts/)
 
 Install ASP.NET [on macOS](https://learn.microsoft.com/en-us/dotnet/core/install/macos#install-with-bash-automation)
