@@ -1,6 +1,16 @@
 # Plug and Play Panels
 
-1. [Join the Microsoft 365 Developer Program](https://learn.microsoft.com/en-us/office/developer-program/microsoft-365-developer-program) - Free for 90 days
+1. [Join the Microsoft 365 Developer Program](https://learn.microsoft.com/en-us/office/developer-program/microsoft-365-developer-program) 
+## Sign Up for Microsoft Fabric and Power BI
+
+To sign up for a free Microsoft Fabric account and Power BI, follow the steps below:
+
+1. Visit the [Microsoft 365 plans and pricing page](https://www.microsoft.com/en-us/microsoft-365/enterprise/office365-plans-and-pricing).
+2. Follow the instructions provided in the [Microsoft documentation](https://learn.microsoft.com/en-us/power-bi/enterprise/service-admin-signing-up-for-power-bi-with-a-new-office-365-trial) to create an Office 365 trial account.
+3. After setting up your Office 365 account and receiving your username, go to the [Microsoft Power BI trial page](https://www.microsoft.com/en-us/power-platform/products/power-bi/getting-started-with-power-bi) and sign in using the username and password you received.
+4. Once signed in, follow the instructions to complete your Power BI setup.
+
+**Note:** The free trial lasts for 60 days.
 
 2. Register for [MS Sandbox](https://learn.microsoft.com/en-us/office/developer-program/microsoft-365-developer-program-get-started)
 
@@ -23,3 +33,4 @@ Docker > [.NET](https://hub.docker.com/_/microsoft-dotnet/) > [ASP.NET Core Runt
 [Birthday Accordion](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-birthdays-per-month)
 
 [Sprocket 365](https://sprocket365.com/docs/category/web-parts) - Provides a Knowledge Base UI.
+
