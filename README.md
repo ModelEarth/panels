@@ -12,7 +12,7 @@ To sign up for a free Microsoft Fabric account and Power BI. The free trial last
 
 ## Plug and Play (PnP) panels
 
-This does not seem to provide Sandbox access. Please post an issue with your findings.
+This does not seem to provide Sandbox access. Please [post an issue](https://github.com/ModelEarth/panels) with your findings.
 
 1. [Join the Microsoft 365 Developer Program](https://learn.microsoft.com/en-us/office/developer-program/microsoft-365-developer-program) - Free for 90 days
 
