@@ -1,7 +1,5 @@
 # Microsoft BI Integration
 
-1. [Join the Microsoft 365 Developer Program](https://learn.microsoft.com/en-us/office/developer-program/microsoft-365-developer-program) 
-
 ## Sign Up for Microsoft Fabric and Power BI
 
 To sign up for a free Microsoft Fabric account and Power BI, follow the steps below:
@@ -20,7 +18,7 @@ The "free development tenant" is mentioned on the PNP pages:
 
 ## Plug and Play (PnP) panels
 
-This does not seem to provide Sandbox access:
+This does not seem to provide Sandbox access. Please post an issue with your findings.
 
 1. [Join the Microsoft 365 Developer Program](https://learn.microsoft.com/en-us/office/developer-program/microsoft-365-developer-program) - Free for 90 days
 
