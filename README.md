@@ -8,6 +8,7 @@ To sign up for a free Microsoft Fabric account and Power BI. The free trial last
 2. Follow the instructions provided in the [Microsoft documentation](https://learn.microsoft.com/en-us/power-bi/enterprise/service-admin-signing-up-for-power-bi-with-a-new-office-365-trial) to create an Office 365 trial account.
 3. After setting up your Office 365 account and receiving your username, go to the [Microsoft Power BI trial page](https://www.microsoft.com/en-us/power-platform/products/power-bi/getting-started-with-power-bi) and sign in using the username and password you received.
 4. Once signed in, follow the instructions to complete your Power BI setup.
+5. View our [Supabase REST pull starter](powerbi)
  
 
 ## Plug and Play (PnP) panels
