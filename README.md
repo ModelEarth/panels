@@ -1,23 +1,28 @@
-# Plug and Play Panels
+# Microsoft BI Integration
 
-1. [Join the Microsoft 365 Developer Program](https://learn.microsoft.com/en-us/office/developer-program/microsoft-365-developer-program) 
 ## Sign Up for Microsoft Fabric and Power BI
 
-To sign up for a free Microsoft Fabric account and Power BI, follow the steps below:
+To sign up for a free Microsoft Fabric account and Power BI. The free trial lasts for 60 days.
 
 1. Visit the [Microsoft 365 plans and pricing page](https://www.microsoft.com/en-us/microsoft-365/enterprise/office365-plans-and-pricing).
 2. Follow the instructions provided in the [Microsoft documentation](https://learn.microsoft.com/en-us/power-bi/enterprise/service-admin-signing-up-for-power-bi-with-a-new-office-365-trial) to create an Office 365 trial account.
 3. After setting up your Office 365 account and receiving your username, go to the [Microsoft Power BI trial page](https://www.microsoft.com/en-us/power-platform/products/power-bi/getting-started-with-power-bi) and sign in using the username and password you received.
 4. Once signed in, follow the instructions to complete your Power BI setup.
+5. View our [Supabase REST pull starter](powerbi)
+ 
 
-**Note:** The free trial lasts for 60 days.
+## Plug and Play (PnP) panels
+
+This does not seem to provide Sandbox access. Please [post an issue](https://github.com/ModelEarth/panels) with your findings.
+
+1. [Join the Microsoft 365 Developer Program](https://learn.microsoft.com/en-us/office/developer-program/microsoft-365-developer-program) - Free for 90 days
 
 2. Register for [MS Sandbox](https://learn.microsoft.com/en-us/office/developer-program/microsoft-365-developer-program-get-started)
 
 The "free development tenant" is mentioned on the PNP pages:  
 [MS 365 & Power Platform Community](https://pnp.github.io/)  
 
-## Plug and Play (PnP) panels
+
 [Overviews](https://pnp.github.io/sp-dev-fx-webparts) of [sp-dev-fx-webparts samples](https://github.com/pnp/sp-dev-fx-webparts/)
 
 Install ASP.NET [on macOS](https://learn.microsoft.com/en-us/dotnet/core/install/macos#install-with-bash-automation)
