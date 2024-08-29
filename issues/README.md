@@ -15,6 +15,7 @@ Documentation of ongoing Sharepoint issues:
 
 Browse to the root of your site collection:
 https://[youraccount].sharepoint.com/SitePages/
+(If the black bar does not appear on the top, hit refresh)
 
 Go to Settings icon > Site information > View all site Settings
 
