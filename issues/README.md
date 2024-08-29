@@ -19,11 +19,13 @@ https://[youraccount].sharepoint.com/SitePages/
 
 Go to Settings icon > Site information > View all site Settings
 
-The above page is blank. 
+The above page is blank for some administrators. 
 (Just the blue top and bottom appear, with the word "Intranet")
 
-When it works, adding adding websites to the approved list has no effect.
-
+<!--
+When it works, adding websites to the approved list had no effect.
+Make sure you start from the SitePages root above.
+-->
 
 ## Axios news embed issue
 
