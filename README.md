@@ -1,8 +1,16 @@
-# Microsoft BI Integration
+# Panels
 
-## Sign Up for Microsoft Fabric and Power BI
+### Replacing Microsoft with Discord API
 
-To sign up for a free Microsoft Fabric account and Power BI. The free trial lasts for 60 days.
+One goal of the panels project is to create modules (webparts) that work with both Microsoft Sharepoint and the [Discord API](https://discord.com/developers/docs/intro) to allow organizations to gracefully move away from Microsoft to reduce costs and expand functionality safely with improved workflow.
+
+[Our current Microsoft Issues](issues) - Create safe alternatives with [Omdena Teams](https://omdena.com)
+
+## Microsoft BI Trial Setup
+
+### Sign Up for Microsoft Fabric and Power BI
+
+For development, sign up for a 60 day Microsoft Fabric account and Power BI.
 
 1. Visit the [Microsoft 365 plans and pricing page](https://www.microsoft.com/en-us/microsoft-365/enterprise/office365-plans-and-pricing).
 2. Follow the instructions provided in the [Microsoft documentation](https://learn.microsoft.com/en-us/power-bi/enterprise/service-admin-signing-up-for-power-bi-with-a-new-office-365-trial) to create an Office 365 trial account.
