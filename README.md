@@ -4,7 +4,7 @@
 
 One goal of the panels project is to create modules (webparts) that work with both Microsoft Sharepoint and the [Discord API](https://discord.com/developers/docs/intro) to allow organizations to gracefully move away from Microsoft to reduce costs and expand functionality safely with improved workflow.
 
-[Our current Microsoft Issues](issues) - Create safe alternatives with [Omdena Teams](https://omdena.com)
+[Our current Microsoft Issues](issues) - Creating safe alternatives with [Omdena Teams](https://omdena.com).
 
 ## Microsoft BI Trial Setup
 
@@ -45,5 +45,5 @@ Docker > [.NET](https://hub.docker.com/_/microsoft-dotnet/) > [ASP.NET Core Runt
 
 [Birthday Accordion](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-birthdays-per-month)
 
-[Sprocket 365](https://sprocket365.com/docs/category/web-parts) - Provides a Knowledge Base UI.
+[Sprocket 365](https://sprocket365.com/docs/category/web-parts) - Provides a Knowledge Base UI which reportedly continues to work after Sprocket subscription expires.
 
