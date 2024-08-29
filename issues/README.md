@@ -8,8 +8,8 @@ We need a Microsoft expert to help resolve the following.
 
 3. Pulling related user data is not working.
 
-Microsoft Sharepoint can be a major inhibitor in implementing improvements to workflow.  
-Documentation of ongoing Sharepoint issues:
+Microsoft Sharepoint can be an inhibitor to improvements to workflow.  
+Documentation of current Sharepoint issues:
 
 ## iFrame embed issue
 
@@ -36,4 +36,10 @@ Our organization is unable to embed the Axios news service as a Sharepoint webpa
 
 Microsoft API's do not include related user content. (More documentation to be added.)
 
-We're developing simultaneously for Microsoft and the [Discord API](https://discord.com/developers/docs/intro) to allow organizations to gracefully migrate to the most cost effective Customer Relation Management (CRM) processes.
+<br>
+
+# Improving Microsoft with Discord API
+
+We're developing simultaneously for Microsoft and the [Discord API](https://discord.com/developers/docs/intro) to allow organizations to choose the most cost effective Customer Relation Management (CRM) processes.
+
+Simultaneous development with multiple APIs allows us to do UX design when developers do not have access to the Microsoft sandbox.
