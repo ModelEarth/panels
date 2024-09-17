@@ -2,11 +2,15 @@
 
 ### Improving Microsoft with Discord API
 
-We're creating modules (webparts) that work with both Microsoft Sharepoint and the [Discord API](https://discord.com/developers/docs/intro) to allow organizations to gracefully move away from Microsoft to reduce costs and expand functionality safely with improved workflow.
+We're creating modules (webparts) that work with both Microsoft Sharepoint and the [Discord API](https://discord.com/developers/docs/intro) to allow organizations to gracefully offset costs while safely expanding functionality and improving workflow.
 
 <!--
 [Our current Microsoft Issues](issues) - Creating safe alternatives with [Omdena Teams](https://omdena.com).
 -->
+
+## Azure Data Studio
+
+[Download Azure Data Studio](https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio)
 
 ## Microsoft BI Trial Setup
 
