@@ -1,7 +1,6 @@
 # Issues
 
 Documentation of current Sharepoint issues.
-We need a Microsoft expert to help resolve the following.
 
 1. Axios news embed is not appearing.
 

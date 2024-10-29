@@ -8,6 +8,10 @@ We're creating modules (webparts) that work with both Microsoft Sharepoint and t
 [Our current Microsoft Issues](issues) - Creating safe alternatives with [Omdena Teams](https://omdena.com).
 -->
 
+TO DO: Set up a trial Microsoft Sharepoint site for testing  
+TO DO: Document fix for installing [dalikoo](dalikoo) member list in Sharepoint
+
+
 ## Azure Data Studio
 
 [Download Azure Data Studio](https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio)
