@@ -1,5 +1,7 @@
 #Dalikoo New Hires webpart
 
+[About New Hires webpart](https://dalikoo.com/new-hires-for-sharepoint/)
+
 **Our problem with set-up:**  
 The path to List in Sharepoint is not finding the data, and
 The path to an Excel file is returning 400 and 404.

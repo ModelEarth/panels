@@ -53,6 +53,8 @@ Docker > [.NET](https://hub.docker.com/_/microsoft-dotnet/) > [ASP.NET Core Runt
 
 ## WebParts Examples
 
+Create a custom [People Search](https://youtu.be/1Ny1nfU1iy0?si=pIvP28mHIs-uVi_D)
+
 [Birthday Accordion](https://github.com/pnp/sp-dev-fx-webparts/tree/main/samples/react-birthdays-per-month)
 
 [Sprocket 365](https://sprocket365.com/docs/category/web-parts) - Provides a Knowledge Base UI which reportedly continues to work after Sprocket subscription expires.
