@@ -8,9 +8,11 @@ We're creating modules (webparts) that work with both Microsoft Sharepoint and t
 [Our current Microsoft Issues](issues) - Creating safe alternatives with [Omdena Teams](https://omdena.com).
 -->
 
-TO DO: Set up a trial Microsoft Sharepoint site for testing  
-TO DO: Document fix for installing [dalikoo](dalikoo) member list in Sharepoint
+## Azure
 
+Deploy Docker to Azure<!-- 2 links from Soham, April 2025 -->
+[Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/training/courses/az-900t00)
+[AZ-900 Certification Course](https://www.youtube.com/watch?v=pY0LnKiDwRA&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
 
 ## Azure Data Studio
 
@@ -30,6 +32,9 @@ For development, sign up for a 60 day Microsoft Fabric account and Power BI.
  
 
 ## Plug and Play (PnP) panels
+
+TO DO: Set up a trial Microsoft Sharepoint site for testing - might not be doable.
+<!--TO DO: Document fix for installing [dalikoo](dalikoo) member list in Sharepoint-->
 
 This does not seem to provide Sandbox access. Please [post an issue](https://github.com/ModelEarth/panels) with your findings.
 
