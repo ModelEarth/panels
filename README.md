@@ -1,6 +1,6 @@
 # Panels
 
-### Improving Microsoft with Discord API
+### Extending Microsoft with Discord API
 
 We're creating modules (webparts) that work with both Microsoft Sharepoint and the [Discord API](https://discord.com/developers/docs/intro) to allow organizations to gracefully offset costs while safely expanding functionality and improving workflow.
 
@@ -32,6 +32,10 @@ For development, sign up for a 60 day Microsoft Fabric account and Power BI.
  
 
 ## Plug and Play (PnP) panels
+
+
+[github.com/pnp](https://github.com/pnp) - [Employee Directory for your SharePoint Intranet (2024 video)](https://youtu.be/VFKs_pISfxg?si=3damfliZRWSxic6d)
+
 
 TO DO: Set up a trial Microsoft Sharepoint site for testing - might not be doable.
 <!--TO DO: Document fix for installing [dalikoo](dalikoo) member list in Sharepoint-->
