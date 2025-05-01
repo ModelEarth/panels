@@ -10,6 +10,8 @@ We're creating modules (webparts) that work with both Microsoft Sharepoint and t
 
 ## Azure
 
+[SuiteCRM - Database Schema for Azure](../profile/crm/)
+
 Deploy Docker to Azure<!-- 2 links from Soham, April 2025 -->
 [Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/training/courses/az-900t00)
 [AZ-900 Certification Course](https://www.youtube.com/watch?v=pY0LnKiDwRA&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
