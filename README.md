@@ -10,15 +10,12 @@ We're creating modules (webparts) that work with both Microsoft Sharepoint and t
 
 ## Azure
 
-[SuiteCRM - Database Schema for Azure](../profile/crm/)
-
-Deploy Docker to Azure<!-- 2 links from Soham, April 2025 -->
-[Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/training/courses/az-900t00)
-[AZ-900 Certification Course](https://www.youtube.com/watch?v=pY0LnKiDwRA&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)
-
-## Azure Data Studio
-
-[Download Azure Data Studio](https://learn.microsoft.com/en-us/azure-data-studio/download-azure-data-studio)
+[SuiteCRM - Database Schema for Azure](../profile/crm/)  
+[Azure.Microsoft.com](https://azure.microsoft.com)  
+[Docker on Azure](https://azure.microsoft.com/en-us/products/kubernetes-service/docker) - [Quickstart](https://learn.microsoft.com/en-us/azure/container-instances/container-instances-quickstart)
+[Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/training/courses/az-900t00) - Self-Directed Learning<!-- 2 links from Soham, April 2025 -->
+[AZ-900 Certification Course](https://www.youtube.com/watch?v=pY0LnKiDwRA&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)  
+[Visual Studio Code](https://code.visualstudio.com/) - Replaces Azure Data Studio
 
 ## Microsoft BI Trial Setup
 
@@ -62,7 +59,11 @@ Docker > [.NET](https://hub.docker.com/_/microsoft-dotnet/) > [ASP.NET Core Runt
 [Link within welcome email](https://developer.microsoft.com/en-us/microsoft-365/profile) leads to rejection if you don't join the 365 Developer Program first:  
 "Thank you for joining. You don't current qualify for a Microsoft 365 Developer Program sandbox subscription."
 
-## WebParts Examples
+## PNP WebParts Examples
+
+[GitHub PnP](https://github.com/pnp/) - Microsoft Plug'n'Play
+
+[Building an Employee Directory - YouTube](https://youtu.be/VFKs_pISfxg?si=3damfliZRWSxic6d)
 
 Create a custom [People Search](https://youtu.be/1Ny1nfU1iy0?si=pIvP28mHIs-uVi_D)
 
