@@ -10,8 +10,9 @@ We're creating modules (webparts) that work with both Microsoft Sharepoint and t
 
 ## Azure
 
-[SuiteCRM - Database Schema for Azure](../profile/crm/)  
-[Azure.Microsoft.com](https://azure.microsoft.com)  
+[SuiteCRM - Partner Database for Azure](../profile/crm/)  
+[Azure.Microsoft.com](https://azure.microsoft.com) - return login at [portal.azure.com](https://portal.microsoft.com)
+
 [Docker on Azure](https://azure.microsoft.com/en-us/products/kubernetes-service/docker) - [Quickstart](https://learn.microsoft.com/en-us/azure/container-instances/container-instances-quickstart)
 [Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/training/courses/az-900t00) - Self-Directed Learning<!-- 2 links from Soham, April 2025 -->
 [AZ-900 Certification Course](https://www.youtube.com/watch?v=pY0LnKiDwRA&list=PLlVtbbG169nED0_vMEniWBQjSoxTsBYS3)  
